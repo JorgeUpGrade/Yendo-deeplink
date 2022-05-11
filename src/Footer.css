@@ -1,0 +1,28 @@
+.footer{
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 0;
+    display: flex;
+    flex-direction: row;
+    padding-top: 0%;
+    height: 0vw;
+}
+
+
+.footer_appstore{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 2%;
+    height: 15vw;
+     min-height: 129px;
+       flex-direction: row;
+       padding-top: 0;
+       padding-bottom: 0;
+       
+}
+
+.footer_googleplay{
+    height: 15vw;
+    min-height: 128px;
+    
+}

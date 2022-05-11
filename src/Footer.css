@@ -3,11 +3,30 @@
     align-items: flex-start;
     margin-top: 0;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     padding-top: 0%;
-    height: 0vw;
+    height: 100vw;
 }
 
+.footer_button {
+    background-color: #24dd96;
+    height: 5vh;
+    width: 17vh;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 100;
+      }
+
+.footer_download{
+    font: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 850 ;
+    font-size: large;
+    margin-bottom: 0;
+}
 
 .footer_appstore{
     margin-top: 0;
